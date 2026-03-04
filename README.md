@@ -1,4 +1,4 @@
-## Hi there 👋
+![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=punkk&theme=retro&wordValue=10&timeValue=15)
 
 <!--
 **yubint/yubint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
