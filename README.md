@@ -1,3 +1,5 @@
+Business and Financial Analysis | Backend Developer
+
 ![Monkeytype Stats](https://monkeytypecard.vercel.app/monkeytype.svg?username=yubint&theme=retro&wordValue=10&timeValue=15)
 
 <!--
